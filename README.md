@@ -6,7 +6,3 @@ Bot que distribuye/clasifica información en redes sociales sobre posibles notic
 - Flask
 - Tweepy
 
-## Para hacer funcionar el bot instalar
-
-```
-$ 
